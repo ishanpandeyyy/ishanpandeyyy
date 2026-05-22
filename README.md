@@ -13,6 +13,3 @@ I’m an aspiring AI & Machine Learning Engineer driven by curiosity and a deep 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=ishanpandeyyy&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=ishanpandeyyy&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
